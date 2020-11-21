@@ -1,4 +1,4 @@
-# MetaTrader5-Docker
+# MT5-Docker
 MetaTrader5 Docker container based on Windows 10
 
 <a href="https://chocolatey.org/packages/metatrader5/0.0.1-beta#files" target="_blank"><img src="https://raw.githubusercontent.com/AlfieJ04/MetaTrader5-Chocolatey/master/icons/metatrader5.png" alt="Chocolatey Page"></a>
